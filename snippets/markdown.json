@@ -1,0 +1,10 @@
+{
+  "setup": {
+    "prefix": ["->", "-->", "rightarrow"],
+    "body": [
+      "$\\xrightarrow{}$ ",
+      ""
+    ],
+    "description": "Right arrow using latexs `xrightarrow`"
+  }
+}
